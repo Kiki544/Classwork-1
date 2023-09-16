@@ -84,3 +84,10 @@ button {
 button:hover {
     background-color: #7aece8;
 }
+
+@media screen and (max-width: 576px) {
+
+    main {
+        padding: 100px 16px;
+    }
+}

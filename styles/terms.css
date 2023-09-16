@@ -1,0 +1,26 @@
+main .Terms{
+    display: flex;
+    max-width: calc(100vh - 100px);
+    padding: 16px;
+}
+
+.navigation {
+    width: 100%;
+}
+.content {
+    overflow-y:scroll;
+}
+
+.content p {
+    text-align:'justify';
+}
+
+@media screen and (max-width:576px) {
+    main {
+        padding: 8px;
+    }
+
+    .navigation {
+        display: none;
+    }
+}
