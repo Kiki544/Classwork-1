@@ -1,0 +1,32 @@
+
+
+.About{
+    background-color: violet;
+    padding: 0px;
+    margin: 0px;
+}
+
+.class{
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+}
+
+.space{
+    background-color: thistle;
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.Table{
+    background-color: darkorchid;
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
